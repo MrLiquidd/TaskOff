@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TaskOff
+
+  Created by Олег Борисов on 26.03.2023.
+  
+*/
+
+"EnterPassword" = "Enter your password";
+"ReEnterPassword" = "Re-enter your passwprd";
+"EnterEmail" = "Enter e-mail";
+"LoginText" = "Login";
+"SignInText" = "Sign In";
+"ForgotPassword" = "Forgot your Password?";
